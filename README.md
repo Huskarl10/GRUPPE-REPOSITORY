@@ -8,3 +8,4 @@
 | Martin Malja | https://github.com/Huskarl10 |
 | Jan Alnes | https://github.com/JanAlnes |
 | Johannes Tjøstheim | https://github.com/Johannestj |
+| Tiril Kleppe | https://github.com/Tiril14 |
