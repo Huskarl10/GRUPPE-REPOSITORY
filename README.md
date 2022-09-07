@@ -6,3 +6,4 @@
 | Lennart Birkeland | https://github.com/Computarfant |
 | Viktor Fjuk | https://github.com/ViktorFjuk |
 | Martin Malja | https://github.com/Huskarl10 |
+| Jan Alnes | https://github.com/JanAlnes |
