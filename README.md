@@ -2,6 +2,7 @@
 
 | Navn| URL                             |
 | --- |---------------------------------|
-| Christine Nilsen | https://github.com/liahra       |
+| Christine Nilsen | https://github.com/liahra |
 | Lennart Birkeland | https://github.com/Computarfant |
-| Viktor Fjuk | https://github.com/ViktorFjuk   |
+| Viktor Fjuk | https://github.com/ViktorFjuk |
+| Martin Malja | https://github.com/Huskarl10 |
